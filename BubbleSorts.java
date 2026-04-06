@@ -1,7 +1,7 @@
   class BubbleSorts {
     public static void main(String[] args) {
 
-        int arr[] = {64, 34, 25, 12, 22, 11, 90};
+        int arr[] = {5, 2, 6, 10, 1, 4, 3};
         int n = arr.length;
         int temp = 0;
 
